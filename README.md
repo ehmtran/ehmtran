@@ -1,8 +1,8 @@
 # Hallo! I'm Em(ily) 🌊
 
-🦕 I'm a student majoring in `Computer Science`! <br>
+🦕 I'm a student majoring in `Computer Science` and minoring in `Finance`! <br>
 
-🪼 I'm working on `BOJ: The Way Home` (*an RPG platformer*), and `SMILY` (*a short film*). <br>
+🪼 I'm working on `BOJ: The Way Home` (*an RPG platformer*) and `SMILY` (*a short film*). <br>
 
 💻 I'm learning `Java` & `C++` for uni and `HTML` & `CSS` on the side. <br>
 
@@ -11,8 +11,8 @@
 --
 
 ### Skills
-- Tech Stack: `Python`, `C#`
-- Programs: `Autodesk Fusion`, `Microsoft 365 & Google Equivalents`
+- Tech Stack: `Python`, `C#`, `Java`
+- Programs: `Autodesk Fusion`, `Microsoft 365 & Google Equivalents`, `VSCode`, `Writerside`
 - Languages: `English`, `Vietnamese`, `Spanish`
 
 ### Fun Facts
