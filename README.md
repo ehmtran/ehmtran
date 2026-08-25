@@ -2,16 +2,16 @@
 
 🦕 I'm a student majoring in `Computer Science` and minoring in `Finance`! <br>
 
-🪼 I'm working on `BOJ: The Way Home` (*an RPG platformer*) and `SMILY` (*a short film*). <br>
+🪼 I'm working on `BOJ: The Way Home` (*an RPG platformer*). <br>
 
-💻 I'm learning `Java` & `C++` for uni and `HTML` & `CSS` on the side. <br>
+💻 I'm learning `Java` & `C++` for Uni and `JavaScript` for website interactivity. <br>
 
 ⚙️ I'm working as an `IT Student Worker` for the Engineering Department at my university. <br>
 
 --
 
 ### Skills
-- Tech Stack: `Python`, `C#`, `Java`
+- Tech Stack: `Python`, `C#`, `Java`, `HTML`, `CSS`
 - Programs: `Autodesk Fusion`, `Microsoft 365 & Google Equivalents`, `VSCode`, `Writerside`
 - Languages: `English`, `Vietnamese`, `Spanish`
 
